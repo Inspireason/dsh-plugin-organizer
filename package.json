@@ -14,8 +14,26 @@
     "lib",
     "cordis.patch.yml",
     "README.md",
+    "README_EN.md",
     "LICENSE"
   ],
+  "scripts": {
+    "prepublishOnly": "node scripts/check-package.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inspireason/dsh-plugin-organizer.git"
+  },
+  "homepage": "https://github.com/Inspireason/dsh-plugin-organizer#readme",
+  "bugs": {
+    "url": "https://github.com/Inspireason/dsh-plugin-organizer/issues"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
@@ -37,7 +55,8 @@
     "web",
     "inventory",
     "official",
-    "third-party"
+    "third-party",
+    "organizer"
   ],
   "license": "MIT",
   "peerDependencies": {

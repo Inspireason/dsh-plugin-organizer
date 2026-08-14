@@ -3,9 +3,19 @@
 一个 DSH Web 客户端插件：把「设置 → 插件」的插件列表变成 **官方 / 第三方分组视图**，每组可以 **展开 / 折叠**（像收纳盒一样）。官方插件默认折叠（因为数量太多），第三方插件默认展开。
 
 <div align="center">
+  🌏 <a href="./README.md"><b>中文</b></a> · <a href="./README_EN.md">English</a>
+</div>
+
+<div align="center">
   <code>官方/第三方</code> <code>展开/折叠</code> <code>搜索</code> <code>状态点</code><br />
   纯客户端插件 · 不修改 DSH 源码 · 官方 CLI 一键安装
 </div>
+
+<!--
+## 截图
+
+![分组收纳标签页](https://github.com/Inspireason/dsh-plugin-organizer/assets/在这里替换为图片ID)
+-->
 
 ## 功能
 
