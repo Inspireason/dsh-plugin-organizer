@@ -14,8 +14,12 @@ A DSH web plugin that turns the plugin inventory in **Settings → Plugins** int
 <!--
 ## Screenshots
 
-![Grouped inventory tab](https://github.com/Inspireason/dsh-plugin-organizer/assets/...)
+![Grouped inventory tab](assets/screenshot-grouped-tab.png)
 -->
+
+<div align="center">
+  <img width="820" alt="Official / Third-party grouped inventory tab" src="assets/screenshot-grouped-tab.png" />
+</div>
 
 ## ✨ Features
 

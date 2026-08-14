@@ -14,8 +14,12 @@
 <!--
 ## 截图
 
-![分组收纳标签页](https://github.com/Inspireason/dsh-plugin-organizer/assets/在这里替换为图片ID)
+![分组收纳标签页](assets/screenshot-grouped-tab.png)
 -->
+
+<div align="center">
+  <img width="820" alt="官方/第三方分组收纳标签页" src="assets/screenshot-grouped-tab.png" />
+</div>
 
 ## 功能
 
