@@ -10,6 +10,11 @@
   <code>官方/第三方</code> <code>展开/折叠</code> <code>搜索</code> <code>状态点</code><br />
   纯客户端插件 · 不修改 DSH 源码 · 官方 CLI 一键安装
 </div>
+<br>
+
+> ⭐ **如果这个插件帮到了你，欢迎点个 Star 支持一下！** 你的 Star 是我持续维护的动力 🙏
+> 
+> ⭐ **If this plugin helped you, please give it a Star!** Your support keeps me improving it 🙏
 
 <!--
 ## 截图

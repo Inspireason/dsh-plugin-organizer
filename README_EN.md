@@ -11,6 +11,9 @@ A DSH web plugin that turns the plugin inventory in **Settings → Plugins** int
   Client-only plugin · no DSH source changes · one-command install via the official CLI
 </div>
 
+> ⭐ **If this plugin helped you, please give it a Star!** Your support keeps me improving it 🙏
+> ⭐ **如果这个插件帮到了你，欢迎点个 Star 支持一下！** 你的 Star 是我持续维护的动力 🙏
+
 <!--
 ## Screenshots
 
