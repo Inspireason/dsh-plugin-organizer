@@ -30,8 +30,9 @@ A DSH web plugin that turns the plugin inventory in **Settings → Plugins** int
 - Same data source as the official plugin list (`pluginInventory` Remote) — display only, no behavior changes
 - **Official** detection: module names starting with `@deepseek-ai/` or `cordis:` (root include and other framework built-ins)
 - Two groups: **Official plugins** collapsed by default, **Third-party plugins** expanded by default
-- Group headers show the group name + plugin count; click a header to expand / collapse
-- **Expand all / Collapse all** toolbar buttons
+- **Third-party plugins get purpose subcategories**: auto-grouped by name keywords into "UI / workspace · Agent collaboration · Permission / security · Vision / images · Obsidian · Management / tools · Other"; reassign any plugin manually (persisted in localStorage)
+- Group headers show the group name + plugin count; click a header to expand / collapse; subcategories collapse independently
+- **Expand all / Collapse all / Reset to auto** toolbar buttons
 - Search box filters across both groups; searching auto-expands both groups
 - Per-plugin cards identical to the official list: title, status dot, enabled/disabled tag; click a card to reveal entryId / configuration / Cordis status
 
